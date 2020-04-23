@@ -1,0 +1,15 @@
+TinyERP/packages/
+TinyERP/TinyERP.Api/bin/
+TinyERP/TinyERP.Api/obj/
+TinyERP/TinyERP.Common/bin/
+TinyERP/TinyERP.Common/obj/
+TinyERP/TinyERP.Course.Api/bin/
+TinyERP/TinyERP.Course.Api/obj/
+TinyERP/TinyERP.Course/bin/
+TinyERP/TinyERP.Course/obj/
+TinyERP/TinyERP.UserManagement.Api/bin/
+TinyERP/TinyERP.UserManagement.Api/obj/
+TinyERP/TinyERP.UserManagement.Share/bin/
+TinyERP/TinyERP.UserManagement.Share/obj/
+TinyERP/TinyERP.UserManagement/bin/
+TinyERP/TinyERP.UserManagement/obj/
